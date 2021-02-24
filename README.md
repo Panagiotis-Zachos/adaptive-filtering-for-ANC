@@ -1,7 +1,15 @@
 # Adaptive Filtering for Active Noise Control
 Simulations for Active Noise Control with adaptive filters for Over-Ear Headphones.
 
-This is a project for the class "Digital Sound Technology". The HpCF for the AKG K141 MKII headphones was provided by the [ASH-IR Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset/tree/master/HpCFs). The song used for the tests was "Shadow Play" by Rory Gallagher. Due to copyright law the song has not been uploaded in this repository.
+This is a project for the class "Digital Sound Technology". 
+
+The HpCF for the AKG K141 MKII headphones was provided by the [ASH-IR Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset/tree/master/HpCFs). 
+
+The 'cocktail party' noise effect is provided by [Soundboard](https://www.soundboard.com/sb/sound/1026980).
+
+The 'Street Noise' effect is from the following YouTube [video](https://www.youtube.com/watch?v=jg9OTyOI6rY).
+
+The song used for the tests was "Shadow Play" by Rory Gallagher. Due to copyright law the song has not been uploaded in this repository.
 
 In this project, two different ANC methods are studied.
 
